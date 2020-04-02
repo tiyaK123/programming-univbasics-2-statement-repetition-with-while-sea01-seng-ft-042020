@@ -7,6 +7,5 @@ while count >= 1 do
   count -= 1 
    if count == 1
     puts "#{count}"
-    puts "Happy New Year!"
-  
   end
+   puts "Happy New Year!"
